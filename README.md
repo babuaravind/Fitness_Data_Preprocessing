@@ -21,7 +21,7 @@ following instructions on the raw datset.
 5.  Creates a second, independent tidy data set with the average of each
     variable for each activity and each subject.
 
-\#\#\#CookBook.md Contains documents each step of the data cleaning and
+**CookBook.md** Contains documents each step of the data cleaning and
 preprocessing process.
 
 \#\#\#tidy-data-final.txt This is the actual file that has been
